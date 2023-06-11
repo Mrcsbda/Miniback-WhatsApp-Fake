@@ -1,0 +1,50 @@
+{
+    "users": [
+        {
+            "name": "Alejandra Sanchez",
+            "phone": "3013553664",
+            "password": "Lulu-04!",
+            "image": "https://www.rd.com/wp-content/uploads/2017/09/01-shutterstock_476340928-Irina-Bg.jpg",
+            "lastTime": 1686515920079,
+            "isOnline": false,
+            "info": "Busy",
+            "id":1
+        },
+        {
+            "name": "Sebastian Henao",
+            "phone": "3134897698",
+            "password": "HenaoSebas_14",
+            "image": "https://img.freepik.com/free-photo/portrait-man-laughing_23-2148859448.jpg?w=740&t=st=1686517171~exp=1686517771~hmac=b4272ed8bded8400df71a84850593e20c32a6d4352e98cbcce64d7c2a0b252cd",
+            "lastTime": 1686515920079,
+            "isOnline": false,
+            "info": "Busy",
+            "id":2
+        }
+    ],
+    "chats": [
+        {
+            "id": 1,
+            "idUser1": 2,
+            "idUser2": 1,
+            "lastMessageSentAt":1686515920079,
+            "messages" : [
+                {
+                    "id": 1,
+                    "sendBy": 2,
+                    "message" :"Hola mundo",
+                    "date" :  168651592007,
+                    "hour" : 168651592007,
+                    "isViewed": true
+                },
+                {
+                    "id": 2,
+                    "sendBy": 1,
+                    "message" :"Mundo hola",
+                    "date" :  168651692008,
+                    "hour" : 168651692007,
+                    "isViewed": false
+                }
+            ]
+        }
+    ]
+}
