@@ -14,11 +14,21 @@
             "name": "Sebastian Henao",
             "phone": "3134897698",
             "password": "HenaoSebas_14",
-            "image": "https://img.freepik.com/free-photo/portrait-man-laughing_23-2148859448.jpg?w=740&t=st=1686517171~exp=1686517771~hmac=b4272ed8bded8400df71a84850593e20c32a6d4352e98cbcce64d7c2a0b252cd",
+            "image": "https://img.freepik.com/free-photo/portrait-man-laughing_23-2148859448.jpg",
             "lastTime": 1686515920079,
             "isOnline": false,
             "info": "Busy",
             "id":2
+        },
+        {
+            "name": "Mariana Castañeda",
+            "phone": "3244686225",
+            "password": "SusiA/05/03",
+            "image": "https://www.rd.com/wp-content/uploads/2017/09/01-shutterstock_476340928-Irina-Bg.jpg",
+            "lastTime": 1686515920079,
+            "isOnline": false,
+            "info": "Busy",
+            "id":3
         }
     ],
     "chats": [
