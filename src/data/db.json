@@ -8,7 +8,7 @@
             "lastTime": 1686515920079,
             "isOnline": false,
             "info": "Busy",
-            "id":1
+            "id": 1
         },
         {
             "name": "Sebastian Henao",
@@ -18,7 +18,7 @@
             "lastTime": 1686515920079,
             "isOnline": false,
             "info": "Busy",
-            "id":2
+            "id": 2
         },
         {
             "name": "Mariana Castañeda",
@@ -28,7 +28,7 @@
             "lastTime": 1686515920079,
             "isOnline": false,
             "info": "Busy",
-            "id":3
+            "id": 3
         }
     ],
     "chats": [
@@ -36,22 +36,22 @@
             "id": 1,
             "idUser1": 2,
             "idUser2": 1,
-            "lastMessageSentAt":1686515920079,
-            "messages" : [
+            "lastMessageSentAt": 1686515920079,
+            "messages": [
                 {
                     "id": 1,
                     "sendBy": 2,
-                    "message" :"Hola mundo",
-                    "date" :  1687376363440,
-                    "hour" : 1687376363440,
+                    "message": "Hola mundo",
+                    "date": 1687376363440,
+                    "hour": 1687376363440,
                     "isViewed": true
                 },
                 {
                     "id": 2,
                     "sendBy": 1,
-                    "message" :"Mundo hola",
-                    "date" :  1687376363443,
-                    "hour" : 1687376363443,
+                    "message": "Hola, queria pedirte ayuda con algo, crees que me puedas ayudar hoy en la tarde tipo 3:30 0 4:00 te queda facil?",
+                    "date": 1687376363443,
+                    "hour": 1687376363443,
                     "isViewed": false
                 }
             ]
