@@ -29,7 +29,27 @@
             "isOnline": false,
             "info": "Busy",
             "id": 3
-        }
+        },
+        {
+            "name": "Stefannya Onofre",
+            "phone": "3154904563",
+            "password": "joel123",
+            "Image":"https://images.saymedia-content.com/.image/t_share/MTk4MDQzMTI5NzY3NTM1ODA2/short-captions-for-profile-pictures.png",
+            "lastTime": 1687548323440,
+            "isOnline": false,
+            "info": "feliz",
+            "id": 4
+          },
+          {
+            "name": "Joel Potter",
+            "phone": "3185648923",
+            "password": "123joel",
+            "Image":"https://imgv3.fotor.com/images/gallery/Realistic-Male-Profile-Picture.jpg",
+            "lastTime": 1687563671616,
+            "isOnline": false,
+            "info": "dichoso",
+            "id": 5
+          }
     ],
     "chats": [
         {
